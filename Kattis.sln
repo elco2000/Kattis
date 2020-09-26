@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis", "Kattis\Kattis.csproj", "{67E8ACA4-DA5B-4AC5-BAF7-FEE09B65FB25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QALY", "QALY\QALY.csproj", "{84628FE0-7283-4E30-A32A-88B29CE23BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67E8ACA4-DA5B-4AC5-BAF7-FEE09B65FB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67E8ACA4-DA5B-4AC5-BAF7-FEE09B65FB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67E8ACA4-DA5B-4AC5-BAF7-FEE09B65FB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67E8ACA4-DA5B-4AC5-BAF7-FEE09B65FB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84628FE0-7283-4E30-A32A-88B29CE23BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84628FE0-7283-4E30-A32A-88B29CE23BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84628FE0-7283-4E30-A32A-88B29CE23BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84628FE0-7283-4E30-A32A-88B29CE23BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
